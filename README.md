@@ -2,9 +2,9 @@
 css responsive grid
 
 ##viewports##
-< 500px
-> 500px
-< 768px
+mobile: smaller 500px
+tablet: bigger 500px
+desktop: bigger 768px
 
 ##usage##
 
