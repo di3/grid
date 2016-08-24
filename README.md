@@ -36,9 +36,9 @@ nesting possible. column widths change on smaller viewports
 </div>
 <div class="r">
   <div class="c2_3">
-    <div class="c1_4>c2_3 c1_4</div>
-    <div class="c1_2>c2_3 c1_2</div>
-    <div class="c1_4>c2_3 c1_4</div>
+    <div class="c1_4">c2_3 c1_4</div>
+    <div class="c1_2">c2_3 c1_2</div>
+    <div class="c1_4">c2_3 c1_4</div>
   </div>
   <div class="c1_3">c1_3</div>
 </div>
