@@ -43,3 +43,5 @@ nesting possible. column widths change on smaller viewports
   <div class="c1_3">c1_3</div>
 </div>
 ```
+
+[demo](http://di3.github.io/grid/)
