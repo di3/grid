@@ -16,12 +16,12 @@
 	clear:both !important;
 }
 .r::before, .r::after {
-    content: "";
-    display: table;
-    line-height: 0;
+  content: "";
+  display: table;
+  line-height: 0;
 }
 .r::after {
-    clear: both;
+  clear: both;
 }
 @media only screen and (max-width: 500px) {
 	.c1 {
